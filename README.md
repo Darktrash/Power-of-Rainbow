@@ -9,4 +9,4 @@ DOESN'T CAUSE ANY HARM TO THE COMPUTER!
 - Doesn't add himself to autoreg 
 - So simple
 
-There is a one-line version (for example, to scare a friend).
+There is a one-line version.
