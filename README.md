@@ -6,7 +6,7 @@ DOES NOT CAUSE ANY HARM TO THE COMPUTER!
 
 - Creates multi-colored windows
 - Can be closed by the taskmgr
-- Doesn't add himself to autoreg 
+- Does not add himself to autoreg 
 - So simple
 
 There is a one-line version.
