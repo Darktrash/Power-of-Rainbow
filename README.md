@@ -8,5 +8,3 @@ DOES NOT CAUSE ANY HARM TO THE COMPUTER!
 - Can be closed by the taskmgr
 - Does not add himself to autoreg 
 - So simple
-
-There is a one-line version.
