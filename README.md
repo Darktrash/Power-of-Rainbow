@@ -1,5 +1,4 @@
 # Power-of-Rainbow
-Power of Rainbow
 
 Virus-joke, harmless.
 DOES NOT CAUSE ANY HARM TO THE COMPUTER!
